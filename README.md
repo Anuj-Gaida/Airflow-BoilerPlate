@@ -127,8 +127,9 @@ docker compose up
 ```
 
 **Note**
-I have replace CeleryExecuter by Local executer 
+I have replaced CeleryExecuter by Local executer 
 ![image](https://github.com/user-attachments/assets/27c8f7ba-c7d4-4964-8c68-714474e21028)
+
 And replaced redis and flower services, you can also modify the compose file according to your needs and ease
 
 
