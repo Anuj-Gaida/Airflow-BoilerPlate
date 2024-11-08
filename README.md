@@ -89,7 +89,7 @@ on your terminal, congrats you have setup the user and databae
 admin user is created with follwing credientials
 ```bash
 username = airflow
-password = airflpw
+password = airflow
 ```
 ## Step 4: Running the airflow
 you can start all the serivce by:
