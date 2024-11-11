@@ -11,6 +11,7 @@ To set up the Airflow home directory, you need to define the location where Airf
 export AIRFLOW_HOME=~/airflow
 ```
 Replace ~/airflow with the desired location for your Airflow home directory. This directory will be used to store logs, configuration files, and the Airflow SQLite database.
+`=~/airflow` assigns the directory ~/airflow (which translates to /home/your_username/airflow on most systems) as the root directory for Airflow.
 
 ## Step 2: Install Apache Airflow
 
